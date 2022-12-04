@@ -36,7 +36,7 @@
 ## :rocket: My GitHub Stats :
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yogeshzala&show_icons=true&theme=transparent&hide_border=true&card_width=900&title_color=407bfd&icon_color=407bfd&ring_color=407bfd&text_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api?username=yogeshzala&show_icons=true&theme=transparent&hide_border=true&card_width=795&title_color=407bfd&icon_color=407bfd&ring_color=407bfd&text_color=ffffff">
 </div>
 
 ## :hourglass: My Github Streak :
@@ -48,7 +48,7 @@
 ## :test_tube: Stuff I Use :
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshzala&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=850&title_color=407bfd&text_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshzala&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=795&title_color=407bfd&text_color=ffffff">
 </div>
 
 <div align="right">
