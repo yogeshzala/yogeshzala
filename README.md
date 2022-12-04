@@ -17,7 +17,7 @@
 
 ## :link: Let's Connect :
 
-<div>
+<div align="center">
     <a href="https://linkedin.com/in/yogeshzala"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30"/></a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://instagram.com/yogeshzala1511"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30"/></a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://twitter.com/yogeshzala1511"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30"/></a>
