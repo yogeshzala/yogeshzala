@@ -18,9 +18,9 @@
 ## :link: Let's Connect :
 
 <div align="center">
-    <a href="https://linkedin.com/in/yogeshzala"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30"/></a>&nbsp&nbsp&nbsp&nbsp
-    <a href="https://instagram.com/yogeshzala1511"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30"/></a>&nbsp&nbsp&nbsp&nbsp
-    <a href="https://twitter.com/yogeshzala1511"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30"/></a>
+    <a href="https://linkedin.com/in/yogeshzala"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp&nbsp&nbsp&nbsp
+    <a href="https://instagram.com/yogeshzala1511"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>&nbsp&nbsp&nbsp&nbsp
+    <a href="https://twitter.com/yogeshzala1511"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
 </div>
 
 ## :gear: Languages And Tools I Use :
@@ -36,7 +36,7 @@
 ## :rocket: My GitHub Stats :
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yogeshzala&show_icons=true&theme=transparent&hide_border=true&card_width=800&title_color=407bfd&icon_color=407bfd&ring_color=407bfd&text_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api?username=yogeshzala&show_icons=true&theme=transparent&hide_border=true&card_width=820&title_color=407bfd&icon_color=407bfd&ring_color=407bfd&text_color=ffffff">
 </div>
 
 ## :hourglass: My Github Streak :
@@ -48,7 +48,7 @@
 ## :test_tube: Stuff I Use :
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshzala&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=750&title_color=407bfd&text_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshzala&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&card_width=770&title_color=407bfd&text_color=ffffff">
 </div>
 
 <div align="right">
