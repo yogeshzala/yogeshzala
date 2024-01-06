@@ -17,11 +17,18 @@
 
 ## :link: Let's Connect
 
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap;">
-    <a href="https://instagram.com/yogeshzala1511"><code><img alt="Instagram" style="border-radius: 4px;" src="https://img.shields.io/badge/Instagram-3E4405F.svg?style=for-the-badge&logo=Instagram&&color=5851DB&logoColor=white"></code></a>
-    <a href="https://linkedin.com/in/yogeshzala"><code><img alt="Linked In" style="border-radius: 4px;" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></code></a>
-    <a href="https://twitter.com/yogeshzala1511"><code><img alt="X" style="border-radius: 4px;" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></code></a>
-</div>    
+<div align="center">
+	<br>
+	<a href="https://github.com/sindresorhus/css-in-readme-like-wat/blame/main/header.svg">
+		<img src="./assets/style.svg" width="800" height="400" alt="Click to see the source">
+	</a>
+	<br>
+</div>
+<div align="center">
+    <a href="https://instagram.com/yogeshzala1511"><code><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3E4405F.svg?style=for-the-badge&logo=Instagram&&color=5851DB&logoColor=white"></code></a>
+    <a href="https://linkedin.com/in/yogeshzala"><code><img alt="Linked In" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></code></a>
+    <a href="https://twitter.com/yogeshzala1511"><code><img alt="X" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></code></a>
+</div>
 
 ## :gear: Languages And Tools I Use
 
