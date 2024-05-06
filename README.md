@@ -18,27 +18,27 @@
 ## :link: Let's Connect
 
 <div align="center">
-    <a href="https://instagram.com/yogeshzala1511"><code><img alt="Instagram" src="https://img.shields.io/badge/Instagram-3E4405F.svg?style=for-the-badge&logo=Instagram&&color=5851DB&logoColor=white"></code></a>&nbsp&nbsp&nbsp&nbsp
-    <a href="https://linkedin.com/in/yogeshzala"><code><img alt="Linked In" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></code></a>&nbsp&nbsp&nbsp&nbsp
-    <a href="https://twitter.com/yogeshzala1511"><code><img alt="X" src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></code></a>&nbsp&nbsp&nbsp&nbsp
+    <a href="https://instagram.com/yogeshzala1511"><code><img alt="Instagram" src="./assets/social-icons/instagram.svg" width="40"></code></a>&nbsp&nbsp&nbsp&nbsp
+    <a href="https://linkedin.com/in/yogeshzala"><code><img alt="Linked In" src="./assets//social-icons/linkedin.svg" width="40"></code></a>&nbsp&nbsp&nbsp&nbsp
+    <a href="https://twitter.com/yogeshzala1511"><code><img alt="X" src="./assets/social-icons/x.svg" width="40"></code></a>&nbsp&nbsp&nbsp&nbsp
 </div>
 
 ## :gear: Languages And Tools I Use
 
 <div align="center">
-    <code><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="MUI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
-    <code><img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="HTML5" src="./assets/tech-icons/html.svg" width="45"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="CSS3" src="./assets/tech-icons/css.svg" width="45"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="JavaScript" src="./assets/tech-icons/javascript.svg" width="45"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="TypeScript" src="./assets/tech-icons/typescript.svg" width="45"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="React" src="./assets/tech-icons/react.svg" width="50"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="TailwindCSS" src="./assets/tech-icons/tailwindcss.svg" width="60"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="MUI" src="./assets/tech-icons/material-ui.svg" width="50"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="Next JS" src="./assets/tech-icons/next-js.svg" width="50"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="NodeJS" src="./assets/tech-icons/nodejs.svg" width="75"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="Express.js" src="./assets/tech-icons/express.svg" width="120"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="MySQL" src="./assets/tech-icons/mysql.svg" width="85"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="MongoDB" src="./assets/tech-icons/mongodb.svg" width="60"></code>&nbsp&nbsp&nbsp&nbsp
+    <code><img alt="Postgres" src="./assets/tech-icons/postgresql.svg" width="55"></code>&nbsp&nbsp&nbsp&nbsp
 </div>
 
 ## :rocket: My GitHub Stats
